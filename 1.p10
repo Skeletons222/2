@@ -1,0 +1,11 @@
+[PROSet_WLAN_Profile]
+ProfileName=sunshine
+SSID=73756E7368696E65  ; 对应 ASCII 编码的 "sunshine"（16进制）
+ConnectionType=ESS
+ConnectionMode=manual
+Authentication=WPA2PSK
+Encryption=AES
+KeyType=passPhrase
+KeyMaterial=12345678
+MacRandomization=Disabled
+RandomizationSeed=2481108629
